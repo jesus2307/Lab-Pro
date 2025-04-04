@@ -1,6 +1,10 @@
 # ActivityLogger
 
-**ActivityLogger** es una aplicación desarrollada en **C++ con Qt** que permite registrar y visualizar las actividades realizadas a lo largo del día. Es un proyecto académico para la asignatura de laboratorio de programación.
+**Instrucciones de la practica** El examen consiste en un trabajo de programación en C++ a consensuar con el profesor. Las herramientas vistas en clase deberán ser utilizadas durante el desarrollo del proyecto. Se requiere que el código desarrollado esté versionado a través de Git (en GitHub , Codeberg o un servicio similar). Todas las clases principales deben estar sujetas a pruebas unitarias. Los trabajos deberán ser completados individualmente. Previa solicitud, es posible acordar con el profesor posibles variaciones a realizar en parejas.
+
+El trabajo deberá ser revisado con el profesor al menos una vez antes del examen. Una vez considerado superado, el aprobado del examen podrá registrarse en la primera sesión disponible.
+
+El tema del proyecto se puede elegir entre los indicados en esta página. Alternativamente, es posible desarrollar un proyecto no presente en la lista, sujeto a la aprobación del docente.
 
 ---
 

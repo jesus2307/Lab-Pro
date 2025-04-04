@@ -1,4 +1,3 @@
-"# Lab-Pro"  
 # ActivityLogger
 
 **ActivityLogger** es una aplicación desarrollada en **C++ con Qt** que permite registrar y visualizar las actividades realizadas a lo largo del día. Es un proyecto académico para la asignatura de laboratorio de programación.
@@ -47,7 +46,7 @@ ActivityLogger/
 
 ---
 
-## 🚀 Ejecución
+##  Ejecución
 
 1. Abrir el proyecto con **Qt Creator** (`ActivityLogger.pro`)
 2. Seleccionar un kit de compilación válido

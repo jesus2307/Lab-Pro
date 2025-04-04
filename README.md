@@ -6,6 +6,11 @@ El trabajo deberá ser revisado con el profesor al menos una vez antes del exame
 
 El tema del proyecto se puede elegir entre los indicados en esta página. Alternativamente, es posible desarrollar un proyecto no presente en la lista, sujeto a la aprobación del docente.
 
+(3) Registro di attività che memorizza cosa si è fatto durante una giornata. Classe che rappresenta attività con descrizione, tempo inizio e fine, Classe registro che colleziona attività su base del giorno. Interfaccia semplice per mostrare il registro sulla base di un giorno fatta a scelta con:
+nCurses
+wxWidgets
+QT
+
 ---
 
 ## Funcionalidades

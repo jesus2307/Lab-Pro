@@ -1,10 +1,10 @@
 TEMPLATE = app
 CONFIG += console c++17
-CONFIG -= app_bundle
-CONFIG -= qt
+QT += core
 
 INCLUDEPATH += $$PWD
-INCLUDEPATH += $$PWD/tests/lib/googletest/googletest/include
+INCLUDEPATH += $$PWD/../ActivityLogger
+INCLUDEPATH += $$PWD/lib/googletest/googletest/include
 
 SOURCES += \
     tests/test_activity.cpp \
@@ -12,5 +12,5 @@ SOURCES += \
     tests/lib/googletest/googletest/src/gtest-all.cc
 
 HEADERS += \
-    activity.h \
-    activitylog.h
+    ../ActivityLogger/activity.h \
+    ../ActivityLogger/activitylog.h
